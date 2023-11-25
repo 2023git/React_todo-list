@@ -10,7 +10,7 @@ import {Tabs, Tab} from 'material-ui/Tabs';
 import FloatingActionButton from 'material-ui/FloatingActionButton'; 
 import CheckIcon from 'material-ui/svg-icons/action/check-circle';
 import ListIcon from 'material-ui/svg-icons/action/list'; 
-import TodoIcon from 'material-ui/svg-icons/action/today';
+import TodoIcon from 'material-ui/svg-icons/action/today'; 
 import EditIcon from 'material-ui/svg-icons/action/delete';
 import CloseIcon from 'material-ui/svg-icons/content/delete-sweep'; 
 import ColumnList from './ColumnList';
