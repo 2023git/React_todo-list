@@ -17,7 +17,7 @@ import ColumnList from './ColumnList';
 import ConfirmDialog from './ConfirmDialog';
 import If from './If';
 import './App.css';
-
+      
 /**
  * @description Main App component.
  * @constructor
