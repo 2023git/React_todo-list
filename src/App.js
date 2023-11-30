@@ -16,7 +16,7 @@ import CloseIcon from 'material-ui/svg-icons/content/delete-sweep';
 import ColumnList from './ColumnList';      
 import ConfirmDialog from './ConfirmDialog';
 import If from './If';
-import './App.css';
+import './App.css'; 
       
 /**
  * @description Main App component.
