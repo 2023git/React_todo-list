@@ -15,7 +15,7 @@ import EditIcon from 'material-ui/svg-icons/action/delete';
 import CloseIcon from 'material-ui/svg-icons/content/delete-sweep'; 
 import ColumnList from './ColumnList';      
 import ConfirmDialog from './ConfirmDialog';    
-import If from './If';
+import If from './If';   
 import './App.css';  
       
 /**
