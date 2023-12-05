@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import sortBy from 'sort-by';
 import {CSSTransitionGroup} from 'react-transition-group';
-import SwipeableViews from 'react-swipeable-views';
+import SwipeableViews from 'react-swipeable-views'; 
 import AppBar from 'material-ui/AppBar'; 
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider'; 
 import TextField from 'material-ui/TextField';
