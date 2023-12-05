@@ -7,7 +7,7 @@ import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
 import TextField from 'material-ui/TextField';
 import RaisedButton from 'material-ui/RaisedButton';  
 import {Tabs, Tab} from 'material-ui/Tabs'; 
-import FloatingActionButton from 'material-ui/FloatingActionButton';      
+import FloatingActionButton from 'material-ui/FloatingActionButton';                
 import CheckIcon from 'material-ui/svg-icons/action/check-circle';
 import ListIcon from 'material-ui/svg-icons/action/list'; 
 import TodoIcon from 'material-ui/svg-icons/action/today'; 
@@ -17,7 +17,7 @@ import ColumnList from './ColumnList';
 import ConfirmDialog from './ConfirmDialog';    
 import If from './If';   
 import './App.css';  
-      
+       
 /**
  * @description Main App component.
  * @constructor
@@ -30,7 +30,7 @@ class App extends Component {
 		/**
 		 * @typedef {Object} ComponentState
 		 * @property {Object[]} items - All list items of the app.
-		 * @property {number} taskIdCounter - The index of the last task added.
+		 * @property {number} taskIdCounter - The index of the last task added.               
 		 * @property {boolean} submitDisabled - Indicates whether submit is disabled.
 		 * @property {number} slideIndex - The index of the tab component.
 		 * @property {boolean} dialogOpen - Visibility of the clear tasks dialog.
